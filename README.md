@@ -1,3 +1,5 @@
+Dashboard Link: https://app.powerbi.com/groups/me/reports/1a06d920-e2fe-4f14-89bc-cd2f8b570f8c/ReportSection?experience=power-bi
+
 Objective:
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
 
